@@ -26,7 +26,7 @@ const handleTranslate = async (text) => {
   };
   const headers = {
     Authorization:
-      "Q3wm1gR4uHGBzYgRxpsizdnfzf3H6O77R5lag40Vy6SSVbSHGQfkDyoLu2jHW85F",
+      "PUT_VALUE_HERE",
     "Content-Type": "application/json",
   };
 
